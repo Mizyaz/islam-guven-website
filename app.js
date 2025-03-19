@@ -317,14 +317,14 @@ const References = () => {
           <div className="card">
             <div className="card-highlight"></div>
             <h3 className="reference-name">Dr. Evsen Yanmaz</h3>
-            <p className="reference-email">evsen.yanmaz@ozyegin.edu.tr</p>
+            <p className="reference-email"><i className="fas fa-envelope"></i> evsen.yanmaz@ozyegin.edu.tr</p>
             <p>My master's thesis advisor, Associate Professor at Ozyegin University and Carnegie Mellon University graduate</p>
           </div>
           
           <div className="card">
             <div className="card-highlight"></div>
             <h3 className="reference-name">Dr. H. Fatih Ugurdag</h3>
-            <p className="reference-email">fatih.ugurdag@ozyegin.edu.tr</p>
+            <p className="reference-email"><i className="fas fa-envelope"></i> fatih.ugurdag@ozyegin.edu.tr</p>
             <p>Dean of Engineering at Ozyegin University, with extensive industry experience including NVIDIA</p>
           </div>
         </div>
